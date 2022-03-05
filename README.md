@@ -38,4 +38,8 @@ My toolbox includes
 ![image](https://camo.githubusercontent.com/3616221d63d89ea18695656c67ad39000fbfaed582edadbbc0841447cd95e5a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a253230494445412d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
+<div>
+  <a href="https://github.com/GabrielIFPB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielIFPB&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielIFPB&layout=compact&langs_count=16&theme=blue-green"/>
+</div>
